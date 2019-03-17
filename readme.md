@@ -3,7 +3,7 @@ measure angle and disgtance
 **use**  
 platform:mbed  
 IMU:mpu9250  
-distance:Vl6180X
+distance:Vl6180X  
 **make**  
 main.cpp  
 **reference**  
