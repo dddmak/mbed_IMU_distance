@@ -1,5 +1,5 @@
 $purpose
-measure angle and disgtance
+measure angle and disgtance  
 $use
 platform:mbed  
 IMU:mpu9250  
